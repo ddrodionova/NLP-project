@@ -4,7 +4,7 @@
 
 [Здесь](/codes) можно найти две тетрадки с кодом. 
 1. [`make_db.ipynb`](/codes/make_db.ipynb) код, который собирает нужные данные и создаёт корпус стихов. 
-2. [`сorpus_search.ipynb`](/codes/сorpus_search.ipynb) код, который осуществляет поиск по корпусу. 
+2. [`сorpus_search.ipynb`](/codes/corpus_search.ipynb) код, который осуществляет поиск по корпусу. 
 
 [`База данных`](https://drive.google.com/file/d/1BmnwmUATSQxeTMt4f3gfv5mkTX76UaOA/view?usp=sharing)
 
